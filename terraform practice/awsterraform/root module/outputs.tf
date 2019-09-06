@@ -3,5 +3,5 @@
 # storage output ##
 
 output "Bucket name" {
-  value = "${module.s3.bucketname}"
+  value = "${module.storage.bucketname}"
 }
