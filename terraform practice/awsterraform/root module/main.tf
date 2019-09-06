@@ -1,9 +1,10 @@
+#----root/main.tf-----
 provider "aws" {
   region = "${var.aws_region}"
 }
 
-# Deploy storage resources
-
+# Deploy Storage Resources
 module "storage" {
-  source = "./storage"
+  source       = "./storage"
+  project_name = "${var.project_name}"
 }

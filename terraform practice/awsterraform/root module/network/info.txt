@@ -1,0 +1,18 @@
+VPC, IGW, and Route Tables
+Initialize Terraform:
+
+export AWS_ACCESS_KEY_ID="[ACCESS_KEY]"
+export AWS_SECRET_ACCESS_KEY="[SECRET_KEY]]"
+terraform init
+Validate code:
+
+terraform validate
+Deploy Network:
+
+terraform apply -auto-approve
+Destroy Network:
+
+terraform destroy -auto-approve
+Delete terraform.tfvars:
+
+rm terraform.tfvars

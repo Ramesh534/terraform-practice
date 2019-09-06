@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="380faae3-4ff9-44cb-8fac-41573fbf9cb4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/terraform practice/awsterraform/root module/network/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/terraform practice/awsterraform/root module/network/main.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/terraform practice/awsterraform/root module/network/output.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/terraform practice/awsterraform/root module/network/terraform.tfvars" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/terraform practice/awsterraform/root module/network/variable.tf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/terraform practice/awsterraform/root module/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/terraform practice/awsterraform/root module/main.tf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terraform practice/awsterraform/s3/info.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terraform practice/awsterraform/s3/main.tf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terraform practice/awsterraform/s3/output.tf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terraform practice/awsterraform/s3/variable.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/terraform practice/awsterraform/root module/outputs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/terraform practice/awsterraform/root module/outputs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/terraform practice/awsterraform/root module/terraform.tfvars" beforeDir="false" afterPath="$PROJECT_DIR$/terraform practice/awsterraform/root module/terraform.tfvars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/terraform practice/awsterraform/storage/info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/terraform practice/awsterraform/root module/storage/info.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/terraform practice/awsterraform/storage/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/terraform practice/awsterraform/root module/storage/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/terraform practice/awsterraform/storage/output.tf" beforeDir="false" afterPath="$PROJECT_DIR$/terraform practice/awsterraform/root module/storage/output.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/terraform practice/awsterraform/storage/variable.tf" beforeDir="false" afterPath="$PROJECT_DIR$/terraform practice/awsterraform/root module/storage/variable.tf" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,38 +27,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/network/main.tf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="593">
+              <caret line="86" column="1" lean-forward="true" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/network/output.tf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/network/variable.tf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/main.tf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/terraform.tfvars">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/variable.tf">
+        <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/network/terraform.tfvars">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="42">
-              <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/outputs.tf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="33" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="33" />
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -96,10 +103,15 @@
         <option value="$PROJECT_DIR$/terraform practice/awsterraform/s3 with terraform/output.tf" />
         <option value="$PROJECT_DIR$/terraform practice/awsterraform/s3 with terraform/info.txt" />
         <option value="$PROJECT_DIR$/terraform practice/awsterraform/root module/terrafrom.tfvars" />
-        <option value="$PROJECT_DIR$/terraform practice/awsterraform/root module/terraform.tfvars" />
         <option value="$PROJECT_DIR$/terraform practice/awsterraform/root module/variable.tf" />
+        <option value="$PROJECT_DIR$/terraform practice/awsterraform/root module/terraform.tfvars" />
         <option value="$PROJECT_DIR$/terraform practice/awsterraform/root module/outputs.tf" />
         <option value="$PROJECT_DIR$/terraform practice/awsterraform/root module/main.tf" />
+        <option value="$PROJECT_DIR$/terraform practice/awsterraform/root module/network/info.txt" />
+        <option value="$PROJECT_DIR$/terraform practice/awsterraform/root module/network/variable.tf" />
+        <option value="$PROJECT_DIR$/terraform practice/awsterraform/root module/network/main.tf" />
+        <option value="$PROJECT_DIR$/terraform practice/awsterraform/root module/network/output.tf" />
+        <option value="$PROJECT_DIR$/terraform practice/awsterraform/root module/network/terraform.tfvars" />
       </list>
     </option>
   </component>
@@ -155,7 +167,8 @@
               <item name="terraform-practice" type="462c0819:PsiDirectoryNode" />
               <item name="terraform practice" type="462c0819:PsiDirectoryNode" />
               <item name="awsterraform" type="462c0819:PsiDirectoryNode" />
-              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="root module" type="462c0819:PsiDirectoryNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -165,7 +178,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567777022217" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567778571093" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -173,6 +186,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ramesh\IdeaProjects\terraform-practice\terraform practice\awsterraform\root module" />
       <recent name="C:\Users\Ramesh\IdeaProjects\terraform-practice\terraform practice\awsterraform\s3 with terraform" />
       <recent name="C:\Users\pishi\IdeaProjects\terraform-practice\terraform practice" />
     </key>
@@ -204,6 +218,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2592" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -375,6 +390,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/main.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/terraform.tfvars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/variable.tf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -382,24 +411,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/terraform.tfvars">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/outputs.tf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="33" />
+        <state relative-caret-position="84">
+          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/main.tf">
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/storage/output.tf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/network/info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/network/variable.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/network/main.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="86" column="1" lean-forward="true" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/network/output.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/network/terraform.tfvars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
         </state>
       </provider>
     </entry>
