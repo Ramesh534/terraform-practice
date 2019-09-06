@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="380faae3-4ff9-44cb-8fac-41573fbf9cb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/terraform practice/terraform in cicd env/jenkins build.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terraform practice/terraform in cicd env/pipeline2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terraform practice/terraform in cicd env/pipeline3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/terraform practice/awsterraform/root module/main.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/terraform practice/awsterraform/root module/outputs.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/terraform practice/awsterraform/root module/terraform.tfvars" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/terraform practice/awsterraform/root module/variable.tf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,46 +20,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/terraform practice/terraform in cicd env/DockerFile">
+        <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/main.tf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            <state relative-caret-position="210">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/terraform practice/terraform in cicd env/main.tf">
+        <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/terraform.tfvars">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="21">
+              <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/terraform practice/terraform in cicd env/jenkins build.txt">
+        <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/variable.tf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="45" column="10" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/terraform practice/terraform in cicd env/pipeline2">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+            <state relative-caret-position="42">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/terraform practice/terraform in cicd env/pipeline3">
+        <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/outputs.tf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+            <state relative-caret-position="105">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -69,8 +61,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Gradle Kotlin DSL Build Script" />
+        <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>aws_region</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -91,6 +89,16 @@
         <option value="$PROJECT_DIR$/terraform practice/terraform in cicd env/jenkins build.txt" />
         <option value="$PROJECT_DIR$/terraform practice/terraform in cicd env/pipeline2" />
         <option value="$PROJECT_DIR$/terraform practice/terraform in cicd env/pipeline3" />
+        <option value="$PROJECT_DIR$/terraform practice/awsterraform/s3.tf" />
+        <option value="$PROJECT_DIR$/terraform practice/awsterraform/s3 with terraform/variable.tf" />
+        <option value="$PROJECT_DIR$/terraform practice/awsterraform/s3 with terraform/main.tf" />
+        <option value="$PROJECT_DIR$/terraform practice/awsterraform/s3 with terraform/output.tf" />
+        <option value="$PROJECT_DIR$/terraform practice/awsterraform/s3 with terraform/info.txt" />
+        <option value="$PROJECT_DIR$/terraform practice/awsterraform/root module/terrafrom.tfvars" />
+        <option value="$PROJECT_DIR$/terraform practice/awsterraform/root module/terraform.tfvars" />
+        <option value="$PROJECT_DIR$/terraform practice/awsterraform/root module/main.tf" />
+        <option value="$PROJECT_DIR$/terraform practice/awsterraform/root module/variable.tf" />
+        <option value="$PROJECT_DIR$/terraform practice/awsterraform/root module/outputs.tf" />
       </list>
     </option>
   </component>
@@ -105,17 +113,16 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
-    <option name="width" value="1750" />
-    <option name="height" value="980" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -133,15 +140,31 @@
               <item name="terraform-practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="terraform-practice" type="462c0819:PsiDirectoryNode" />
               <item name="terraform practice" type="462c0819:PsiDirectoryNode" />
-              <item name="terraform in cicd env" type="462c0819:PsiDirectoryNode" />
+              <item name="awsterraform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="terraform-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="terraform-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="terraform practice" type="462c0819:PsiDirectoryNode" />
+              <item name="awsterraform" type="462c0819:PsiDirectoryNode" />
+              <item name="root module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="terraform-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="terraform-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="terraform practice" type="462c0819:PsiDirectoryNode" />
+              <item name="awsterraform" type="462c0819:PsiDirectoryNode" />
+              <item name="s3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567776699857" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -149,6 +172,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ramesh\IdeaProjects\terraform-practice\terraform practice\awsterraform\s3 with terraform" />
       <recent name="C:\Users\pishi\IdeaProjects\terraform-practice\terraform practice" />
     </key>
   </component>
@@ -178,9 +202,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2592" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -189,6 +214,7 @@
       <window_info id="UI Designer" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info id="Azure Explorer" order="8" />
+      <window_info anchor="bottom" id="AWS Tail" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -197,7 +223,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Amazon EC2" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32827735" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Cosmos Serverless Spark Jobs" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" />
@@ -263,41 +289,117 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/terraform practice/terraform in cicd env/Pipeline script.sh" />
+    <entry file="file://$PROJECT_DIR$/terraform practice/terraform in cicd env/Pipelinescript" />
     <entry file="file://$PROJECT_DIR$/terraform practice/terraform in cicd env/DockerFile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
+        <state relative-caret-position="168">
           <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/terraform practice/terraform in cicd env/Pipelinescript">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/terraform practice/terraform in cicd env/main.tf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="483">
           <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/__init__.py">
+      <provider selected="true" editor-type-id="live-pycharm">
+        <state>
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/terraform practice/terraform in cicd env/jenkins build.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
+        <state relative-caret-position="553">
           <caret line="45" column="10" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/terraform practice/terraform in cicd env/pipeline2">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
+        <state relative-caret-position="432">
           <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/terraform practice/terraform in cicd env/pipeline3">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
+        <state relative-caret-position="194">
           <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/s3 with terraform/s3.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/s3 with terraform/variable.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/s3 with terraform/info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/s3 with terraform/output.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/s3 with terraform/main.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/terrafrom.tfvars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/terraform.tfvars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/variable.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/main.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/outputs.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
         </state>
       </provider>
     </entry>
