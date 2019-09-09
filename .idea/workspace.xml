@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="380faae3-4ff9-44cb-8fac-41573fbf9cb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/terraform practice/awsterraform/root module/instance/main.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terraform practice/awsterraform/root module/instance/outputs.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terraform practice/awsterraform/root module/instance/userdata.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terraform practice/awsterraform/root module/instance/variable.tf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terraform practice/awsterraform/root module/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/terraform practice/awsterraform/root module/main.tf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terraform practice/awsterraform/root module/outputs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/terraform practice/awsterraform/root module/outputs.tf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terraform practice/awsterraform/root module/terraform.tfvars" beforeDir="false" afterPath="$PROJECT_DIR$/terraform practice/awsterraform/root module/terraform.tfvars" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terraform practice/awsterraform/root module/variable.tf" beforeDir="false" afterPath="$PROJECT_DIR$/terraform practice/awsterraform/root module/variable.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/terraform practice/awsterraform/root module/instance/userdata.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/terraform practice/awsterraform/root module/instance/userdata.tpl" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/instance/userdata.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state relative-caret-position="105">
+              <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -62,8 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/main.tf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
-              <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+            <state relative-caret-position="609">
+              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -77,7 +70,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/terraform.tfvars">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
@@ -142,12 +135,12 @@
         <option value="$PROJECT_DIR$/terraform practice/awsterraform/root module/network/terraform.tfvars" />
         <option value="$PROJECT_DIR$/terraform practice/awsterraform/root module/instance/outputs.tf" />
         <option value="$PROJECT_DIR$/terraform practice/awsterraform/root module/instance/variable.tf" />
-        <option value="$PROJECT_DIR$/terraform practice/awsterraform/root module/instance/userdata.tpl" />
         <option value="$PROJECT_DIR$/terraform practice/awsterraform/root module/instance/main.tf" />
         <option value="$PROJECT_DIR$/terraform practice/awsterraform/root module/variable.tf" />
         <option value="$PROJECT_DIR$/terraform practice/awsterraform/root module/main.tf" />
         <option value="$PROJECT_DIR$/terraform practice/awsterraform/root module/outputs.tf" />
         <option value="$PROJECT_DIR$/terraform practice/awsterraform/root module/terraform.tfvars" />
+        <option value="$PROJECT_DIR$/terraform practice/awsterraform/root module/instance/userdata.tpl" />
       </list>
     </option>
   </component>
@@ -162,17 +155,16 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -203,10 +195,11 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567783817002" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567785381849" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -245,10 +238,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2592" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2671141" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -257,7 +250,6 @@
       <window_info id="UI Designer" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info id="Azure Explorer" order="8" />
-      <window_info anchor="bottom" id="AWS Tail" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -266,13 +258,14 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Amazon EC2" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32827735" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32719547" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Cosmos Serverless Spark Jobs" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Azure Activity Log" order="13" />
       <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="AWS Tail" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -347,14 +340,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/__init__.py">
-      <provider selected="true" editor-type-id="live-pycharm">
-        <state>
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/__init__.py" />
     <entry file="file://$PROJECT_DIR$/terraform practice/terraform in cicd env/jenkins build.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="553">
@@ -376,48 +362,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/s3 with terraform/s3.tf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/s3 with terraform/variable.tf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/s3 with terraform/info.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="38" selection-start-column="38" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/s3 with terraform/output.tf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/s3 with terraform/main.tf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/terrafrom.tfvars">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/s3 with terraform/s3.tf" />
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/s3 with terraform/variable.tf" />
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/s3 with terraform/info.txt" />
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/s3 with terraform/output.tf" />
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/s3 with terraform/main.tf" />
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/terrafrom.tfvars" />
     <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/storage/output.tf">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -467,10 +417,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/instance/userdata.tpl">
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/instance/outputs.tf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state relative-caret-position="168">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -481,24 +431,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/instance/outputs.tf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/variable.tf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/main.tf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        <state relative-caret-position="609">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -509,10 +445,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/variable.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/terraform.tfvars">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terraform practice/awsterraform/root module/instance/userdata.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
         </state>
       </provider>
     </entry>
